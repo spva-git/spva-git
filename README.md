@@ -1,3 +1,9 @@
+ <p>       
+<p align="center">   
+    <img src="https://github.com/spva-git/spva-git/assets/preview.WEBP"   
+        alt="pixel-night-banner "> 
+</p>  
+
 <h1>Hi 👋, I'm Sandeep</h1>
 🚀 Full-Stack Developer | 14+ Years Experience | AI & Cloud Enthusiast<br>Experienced in building scalable web apps using React, Next.js, Angular, TypeScript, Node.js, and AWS. Passionate about clean architecture, DevOps, and performance optimization.<br><br>🔍 Currently exploring Generative AI, Langchain, and Python for smart applications.<br>🎓 Pursuing Project Management Certification at IIT Delhi.<br>💡 I enjoy mentoring, open source, and learning something new every day.<br><br>
 
