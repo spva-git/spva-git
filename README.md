@@ -27,7 +27,6 @@
 </p>
 <p align="center">
      
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spva-git&theme=tokyonight" />
 </p>
@@ -36,5 +35,5 @@
     <img src="https://github.com/spva-git/spva-git/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+</p>
