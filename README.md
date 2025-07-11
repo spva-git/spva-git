@@ -22,8 +22,7 @@
 </p>
 <h2 align="center"># 💻 Tech Stack </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,php,python,typescript,aws,gcp,angular,express,nodejs,nextjs,tailwind,react,redux,jenkins,mongodb,mysql,postgres,supabase,tensorflow,git,bitbucket,gitlab,kubernetes&perline=12"
-       alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nextjs,angular,nodejs,express,mongodb,postgres,html,tailwind,php,mysql,git,python,aws,gcp,jenkins,bitbucket,gitlab,kubernetes&perline=11" alt="skills logos" />
 </p>
 <p align="center">
      
