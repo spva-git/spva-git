@@ -30,9 +30,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spva-git&theme=tokyonight" />
 </p>
 
-<p align="center">
-    <img src="https://github.com/spva-git/spva-git/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/spva-git/spva-git/blob/output/github-snake-dark.svg)
+</div>
+
 
 </p>
 </p>
