@@ -27,9 +27,10 @@
 <p align="center">
      
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  </p>
+<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spva-git&theme=tokyonight" />
 </p>
-
 <!-- Snake Animation -->
 <div align="center">
     
